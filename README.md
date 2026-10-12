@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Gabriel Topón dev</h1>
-<h3 align="center">A passionate</h3>
+<h3 align="center">Estudiante de Ingeniería en TICs en la ESPE | Desarrollador Java & Python | Entusiasta de Linux y Redes en Ecuador</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
